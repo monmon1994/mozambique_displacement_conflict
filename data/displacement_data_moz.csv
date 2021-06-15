@@ -1,0 +1,15 @@
+ISO3,Name,Year,Conflict Stock Displacement,Conflict New Displacements,Disaster New Displacements,Disaster Stock Displacement
+#country+code,#country+name,#date+year,#affected+idps+ind+stock+conflict,#affected+idps+ind+newdisp+conflict,#affected+idps+ind+newdisp+disaster,#affected+idps+ind+stock+disaster
+MOZ,Mozambique,2008,,,143000,
+MOZ,Mozambique,2009,,,7300,
+MOZ,Mozambique,2010,,,130000,
+MOZ,Mozambique,2011,,,22000,
+MOZ,Mozambique,2012,,,10000,
+MOZ,Mozambique,2013,,,186000,
+MOZ,Mozambique,2014,,,21000,
+MOZ,Mozambique,2015,,,61000,
+MOZ,Mozambique,2016,15000,15000,7000,
+MOZ,Mozambique,2017,10000,120,170000,
+MOZ,Mozambique,2018,14000,3800,31000,
+MOZ,Mozambique,2019,110000,5300,506000,132000
+MOZ,Mozambique,2020,676000,592000,25000,93000
